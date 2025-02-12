@@ -15,7 +15,9 @@ Click on download and agree on the License Agreement pop up.
 <img src="folder/3agree.PNG">
 <h2>Unpacking Nessus</h2>
 Open terminal and navigate to the Downloads directory where nessus is downloaded at.
+<br>
 <i>sudo su</i> to become the root user 
+<br>
 Next is extracting and activating nessus.
 <img src="folder/4Unpacking_nessus.PNG">
 <i>dpkg -i Nessus....</i>
@@ -24,17 +26,17 @@ Next is extracting and activating nessus.
 <img src="folder/4Unpacking_nessus.PNG">
 <i>system ctl start nessusd</i> (to activate nessus)
 <img src="folder/8active_nessus.PNG">
-Open firefox in kali and copy the link provided when activating nessus
+Open firefox in kali and copy the link provided when activating nessus.
 <img src="folder/9copy_link_address_to_browser.PNG">
 <br>
 <img src="folder/10advanced_acceptrisk.PNG">
-Click on advanced scroll down and accept to continue into nessus framwork
+Click on advanced scroll down and accept to continue into nessus framwork.
 <img src="folder/11advanced_acceptrisk.PNG">
-Click on advanced scroll down and accept to continue into nessus framwork
+Click on advanced scroll down and accept to continue into nessus framwork.
 <br>
-Copy the activation code and save it on editor
+Copy the activation code and save it on editor.
 <img src="folder/12save_activation_key.PNG">
-Continue and create an account with username and password
+Continue and create an account with username and password.
 <br>
-Let it initialize and setting up all the plugins we need for us to peform a successfull vulnerability analysis
+Let it initialize, setting up all the plugins we need to peform a successfull vulnerability analysis.
 
