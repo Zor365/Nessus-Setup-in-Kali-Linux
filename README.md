@@ -19,6 +19,14 @@ system ctl status nessusd (to find out if active or inactive)
 <img src="folder/4Unpacking_nessus.PNG">
 system ctl start nessusd (to activate nessus)
 <img src="folder/8active_nessus.PNG">
-open firefox in kali and copy the link provided when activating nessus
+Open firefox in kali and copy the link provided when activating nessus
 <img src="folder/9copy_link_address_to_browser.PNG">
+<img src="folder/10advanced_acceptrisk.PNG">
+Click on advanced scroll down and accept to continue into nessus framwork
+<img src="folder/11advanced_acceptrisk.PNG">
+Click on advanced scroll down and accept to continue into nessus framwork
+Copy the activation code and save it on editor
+<img src="folder/12save_activation_key.PNG">
+Continue and create an account with username and password
+Let it initialize and setting up all the plugins we need for us to peform a successfull vulnerability analysis
 
